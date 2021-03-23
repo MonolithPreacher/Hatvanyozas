@@ -1,0 +1,2 @@
+# Hatvanyozas
+Adott hatványra emelés 
